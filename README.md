@@ -16,7 +16,7 @@ The 2nd line specifies the block size.<br>
 The 3rd line specifies the associativity. 0 represents direct-mapped, 1 represents four-way set associative, 2 represents fully associative.<br>
 The 4th line specifies the Replace algorithm. 0 represents FIFO, 1 represents LRU.<br>
 The rest of the test case is a trace of memory accesses executed from some benchmark program.<br>
-
+<br><br>
 Q1. How do you know the number of block from input file?<br>
 	number of block = cache size/block size<br>
 
